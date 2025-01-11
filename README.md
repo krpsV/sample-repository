@@ -1,1 +1,29 @@
-IyDjgrXjg7Pjg5fjg6vjg6rjg53jgrjjg4jjg6oKCuOBk+OBruODquODneOCuOODiOODquOBr+OAgUdpdEh1YuOBruWfuuehgeeahOOBquapn+iDveOCkuWtpuS5oeOBmeOCi+OBn+OCgeOBruOCteODs+ODl+ODq+ODl+ODreOCuOOCp+OCr+ODiOOBp+OBmeOAggojIyDmqZ/og70KCi0gR2l0SHVi44Gu5Z+65L2c44Gu57e057SKLSBNYXJLZG93buOBruiomO6rn+OBrueiuuiqjQotIOODl+ODreOCuOOCp+OCr+ODeeuLqeeQhOOBruWfuuehgeetieS5oQoKIyMg5L2/44GE5pa5CgoxLiDjgZPjga7jg6rjg53jgrjjg4jjg6rjgpLjgq/jg63jg7zjg7PjgZfjgb7jgZkK4oCcYGDigJxiYXNoCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20va3Jwc1Yvc2FtcGxlLXJlcG9zaXRvcnkuZ2l0CuKAnWAKCjIuIOW/heimgeOBquWkieabtOOCkuWKoOOBiOOBvuOBmQoKMy4g5aSJ5pu044KS44Kz44Of44OD44OI44GX44Gm44OX44OD44K344OV44GX44G+44GKYL0KZ2l0IGFkZCAuCmdpdCBjb21taXQgLW0gIuWkieabtOWGheWuueOBruiqlOaYjyIKZ2l0IHB1c2ggb3JpZ2luIG1haW4KYAoKIyMg44Op44Kk44K744Oz44K5CgojIOOBk+OBruODl+ODreOCuOOCp+OCr+ODiOOBr01JVOODqeOCpOOCu+ODs+OCueOBruS4i+OBp+WFrOmBqeOBleOCjOOBpuOBhOOBvuOBmeOAggo=
+# サンプルリポジトリ
+
+このリポジトリは、GitHubの基本的な機能を学習するためのサンプルプロジェクトです。
+
+## 機能
+
+- GitHubの基本操作の練習
+- Markdownの記法の確認
+- プロジェクト管理の基礎学習
+
+## 使い方
+
+1. このリポジトリをクローンします
+```bash
+git clone https://github.com/krpsV/sample-repository.git
+```
+
+2. 必要な変更を加えます
+
+3. 変更をコミットしてプッシュします
+```bash
+git add .
+git commit -m "変更内容の説明"
+git push origin main
+```
+
+## ライセンス
+
+このプロジェクトはMITライセンスの下で公開されています。
